@@ -2,6 +2,9 @@
 
 Every box in the diagram is clickable — tap any agent to drill into its design. Below is the full system specification.
 
+
+https://raw.githubusercontent.com/Ayush17goyal/N-CYPHER2/3ddf901df1ce9e40834d08940a38d53027afb04d/autonomous_ai_company_os_architecture.svg
+
 ---
 
 ## 1. System Architecture
